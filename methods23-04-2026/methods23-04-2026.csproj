@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>methods23_04_2026.methoodnamedparameter</StartupObject>
+    <StartupObject>methods23_04_2026.method_Q7_23_04_2026</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="method-Q7-23-04-2026.cs" />
     <Compile Include="method-task1-23-02-2026-Q3-Area-circle.cs" />
     <Compile Include="method-task1-23-02-2026-Q5-total-marks.cs" />
     <Compile Include="method-task1-23-04-2026- Q2-Fullname.cs" />
