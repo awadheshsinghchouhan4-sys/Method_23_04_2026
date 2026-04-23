@@ -17,6 +17,7 @@ namespace methods23_04_2026
         {
             DisplayInfo(name: "Alice", age: 30, city: "New York");
             DisplayInfo(city: "Los Angeles", name: "Bob", age: 25);
+            Console.WriteLine("hellow");
         }
     }
 }
