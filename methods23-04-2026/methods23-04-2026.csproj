@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>methods23_04_2026.methoodnamedparameter</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -43,6 +46,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="method-task1-23-02-2026-Q3-Area-circle.cs" />
+    <Compile Include="method-task1-23-02-2026-Q5-total-marks.cs" />
+    <Compile Include="method-task1-23-04-2026- Q2-Fullname.cs" />
+    <Compile Include="method-task1-23-04-2026-Q4-isPrime.cs" />
+    <Compile Include="method-task1-23-04-2026Q6-n-prime.cs" />
+    <Compile Include="methoodnamedparameter.cs" />
+    <Compile Include="mthod-Task1-23-04-2026-Q1-calculator.cs" />
+    <Compile Include="optionalparameter.cs" />
+    <Compile Include="outparametermethod.cs" />
+    <Compile Include="parammethod.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
